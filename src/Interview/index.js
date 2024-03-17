@@ -16,6 +16,9 @@ function Interview() {
                 <br></br>
                 <br></br>
                 Unfortunately, Luke mentioned that in many cases there’s code that isn’t well documented or commented. These come in a variety of places, mainly older parts of the codebase where documentation was a lower priority for the company’s developers. He also mentions that frontend/client facing parts of the codebase have much better documentation, compared to backend systems. He thinks that “The higher level stuff like frontend needs to have PMs and such explain it, they’re not going to get as much from the signature of the method. So docs are much more important in this context”. Given that documentation is something that takes time and effort to maintain, it makes sense that at a small startup company like Luke’s that this effort has been focused on areas where it’s most important.
+                <br></br>
+                <br></br>
+                This was an interesting takeaway for me. While it is ideal for all parts of a codebase to be thoroughly documented, certain types of code are more important to document than others. In the case of client facing/frontend components, vs backend ones, this makes a lot of sense. Luke’s example of what a project manager needs to to understand code, compared to what a developer’s needs presents an interesting dynamic. Backend code will only be looked at by technical engineers, so it’s less important(though still ideal) for there to be source code documentation.
 
             </div>
 
