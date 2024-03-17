@@ -3,10 +3,21 @@ import './App.css';
 import { HashRouter } from "react-router-dom";
 import { Routes, Route, Navigate } from "react-router";
 
+import Homepage from './Homepage';
+import Interview from './Interview';
+
 function App() {
   return (
     <div>
-      Hello this is my test URL presently transferring content over to it
+      <HashRouter>
+         <div>
+            <Routes>
+               <Route path="/" element={<Homepage/>}/>
+               <Route path="/Interview" element={<Interview/>}/>
+            </Routes>
+         </div>
+      </HashRouter>
+      
     </div>
   );
 }
