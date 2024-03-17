@@ -4,6 +4,7 @@ function Homepage() {
     return(
         <div>
             <Nav/>
+            Homepage content here
         </div>
     )
 }
