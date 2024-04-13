@@ -6,7 +6,9 @@ function Nav() {
         className="nav-link"> Home</Link>
       <Link to="/Interview"
         className="nav-link">Inteview</Link>
-        <Link to="/Interview"
+        <Link to="/HowTo"
+        className="nav-link">How To</Link>
+      <Link to="/Interview"
         className="nav-link">Other links here as needed...</Link>
     </nav>
   );
