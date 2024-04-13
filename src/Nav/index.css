@@ -1,0 +1,10 @@
+.nav {
+    background-color: rgb(240, 240, 240);
+}
+
+.nav-item {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    margin-right: 20px;
+}
