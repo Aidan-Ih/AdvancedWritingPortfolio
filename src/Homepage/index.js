@@ -1,16 +1,24 @@
 import Nav from "../Nav";
 import "./index.css"
 function Homepage() {
-    return(
+    return (
         <div>
-            <Nav/>
+            <Nav />
             <div className="content">
-                <h1>Aidan's Portfolio Page Skeleton</h1>
-                <div>
-                Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                <h1>Aidan's ENGW3302 Portfolio Page</h1>
+                <div className="paragraph">
+                    Hello!
+                </div>
+
+                <div className="paragraph">
+                    My name is Aidan Ih, I am a third year undergraduate studying computer
+                    science at Northeastern University. This semester in ENGW3302, my
+                    classmates and I have studied writing in the technical disciplines,
+                    and have built a portfolio featuring a variety of different styles of
+                    writing often found in technical fields. I hope you enjoy reading my work. 
                 </div>
             </div>
-            
+
         </div>
     )
 }
