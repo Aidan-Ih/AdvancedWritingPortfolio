@@ -52,7 +52,7 @@ function LitReview() {
                     </Link>
                     <br></br>
 
-                    <Link to=""
+                    <Link to="https://docs.google.com/document/d/170rUA4h4UIYA_SR2iWByTsD4MebrfZT1kWdN1Wb0PLE/edit?usp=sharing"
                         target="_blank">
                         <div className="link-button">
                             Final Draft

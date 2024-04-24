@@ -15,10 +15,13 @@ function HowTo() {
                         Similar to the Lit Review project, the Techincal Documentation/How To project
                         gave us exposure to a common type of writing in technical fields, this time 
                         in industry writing. I personally struggled with this assignment, as I had a 
-                        difficult time identifying a target audience that would benefit from reading my
-                        guide about a fairly standard topic. For my final draft, I've tried targeting 
-                        a less experienced audience (new undergrads, high schoolers), instead of 
-                        experienced software devolpers. 
+                        difficult time condensing a broad topic into something concise enough to 
+                        write about. The solution I eventually settled on was to focus on a more specific
+                        subset of applications to write guides for. As such, I set my target audience as
+                        developers of third-party add-ons and hacks to pre-existing software. An example
+                        would be a browser extension that changes how a website acts, or custom firmware
+                        that runs on normally shut-down gaming console. Reframing the audience in this way
+                        made it significantly easier to write the final version of this project. 
                     </div>
 
 
@@ -41,7 +44,7 @@ function HowTo() {
                     </Link>
                     <br></br>
 
-                    <Link to=""
+                    <Link to="https://docs.google.com/document/d/14jKutsC5r4ByagrfXpMJ7cWqo-2fcM8abwR0oO5GgtM/edit?usp=sharing"
                         target="_blank">
                         <div className="link-button">
                             Final Draft
